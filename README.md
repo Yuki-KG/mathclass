@@ -13,7 +13,7 @@ It doesn't work in Python 2.x environment.
 $ python mathclass.py
 ```
 
-After you type as shown above, you have prompt message asking you the operation, number of questions, and difficulty level.
+After you type as shown above, you have prompt messages asking you the operation, number of questions, and difficulty level.
 
 ### Operation
 
@@ -46,6 +46,12 @@ You can select either 1, 2, 3 or 4 of the difficulty level.
 |2|2 digits + 1 digit|2 digits - 2 digits|2 digits * 1 digit|
 |3|2 digits + 2 digits|3 digits - 2 digits|3 digits * 1 digit|
 |4|3 digits + 3 digits|3 digits - 3 digits|3 digits * 2 digits|
+
+If you input other than 1, 2, 3 or 4, you'll have an error message like this:
+
+```
+?Input 1, 2, 3 or 4
+```
 
 ### Answering questions
 
