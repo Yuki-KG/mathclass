@@ -31,7 +31,7 @@ You can select either 10, 20, 50 or 100 questions.
 If you input other than these numbers, you'll have an error message like this:
 
 ```
-?Input 1, 2 or 3
+?Input 1, 2, 3 or 4
 ```
 
 ### Difficulty level
@@ -41,6 +41,7 @@ You can select either 1, 2, 3 or 4 of the difficulty level.
 1 is easiest, and 4 most difficult.
 
 |Difficulty Level|Addition|Subtraction|Multiplication|
+|:--|:--:|:--:|:--:|
 |1|1 digit + 1 digit|2 digits - 1 digit|1 digit * 1 digit|
 |2|2 digits + 1 digit|2 digits - 2 digits|2 digits * 1 digit|
 |3|2 digits + 2 digits|3 digits - 2 digits|3 digits * 1 digit|
