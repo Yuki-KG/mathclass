@@ -55,7 +55,7 @@ In each question, you give your answer and hit return.
 When your answer is correct, "BINGO!" will appear.
 Otherwise, "OOPS!" will appear along with the correct answer.
 
-After completing the drill, the result will appear. The result includes the questions and answers you had and whether your answers are correct or not.
+After completing the drill, the result will appear. The result includes the questions and answers you had answered and whether your answers are correct or not.
 
 Your score will be shown below the result.
 (0-100 points)
